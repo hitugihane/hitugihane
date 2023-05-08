@@ -1,5 +1,5 @@
 ### 大学3年生です。
-### チーム開発を主にフロントとバックを主にやっています。
+### チーム開発でフロントとバックを主にやっています。
 
 <!--
 **hitugihane/hitugihane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
