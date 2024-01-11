@@ -1,7 +1,7 @@
 ### 大学3年生です。
 ### チーム開発でフロントとバックを主にやっています。
 
-<details><summary># WEBアプリケーション -チーム開発</summary><div>
+<details><h1>WEBアプリケーション -チーム開発</h1><div>
 
 ## タイトル：ＭＯＧＲＡ
 概要：　モチベーショングラフを簡単に作成できる「MOGRA」というウェブアプリケーションを作りました。
@@ -90,9 +90,8 @@ GitHub：https://github.com/HackathonGteam/gteam
 </div></details>
 
 
+<details><h1>スマートフォンアプリ -チーム開発</h1>
 
-
-# スマートフォンアプリ -チーム開発
 ## タイトル：cotabi
 概要：　旅の行き先を現在地、予算、時間を基に提案してくれるスマホアプリ
 
@@ -127,6 +126,8 @@ GitHub：https://github.com/Hack-U-Nagoya-KAIT/cotabi
 GitHub：https://github.com/sometaroka
 
 開発秘話：プロジェクト全体のリーダーがオフライン合宿の直前にとんだ。
+
+</div></details>
 <!--
 **hitugihane/hitugihane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
