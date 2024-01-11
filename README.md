@@ -90,7 +90,7 @@ GitHub：https://github.com/HackathonGteam/gteam
 </div></details>
 
 
-<details><summary>><h1>スマートフォンアプリ -チーム開発</h1></summary>
+<details><summary><h1>スマートフォンアプリ -チーム開発</h1></summary>
 
 ## タイトル：cotabi
 概要：　旅の行き先を現在地、予算、時間を基に提案してくれるスマホアプリ
