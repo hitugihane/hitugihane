@@ -1,8 +1,8 @@
 ### 大学3年生です。
 ### チーム開発でフロントとバックを主にやっています。
 
+<details><summary># WEBアプリケーション -チーム開発</summary><div>
 
-# WEBアプリケーション -チーム開発
 ## タイトル：ＭＯＧＲＡ
 概要：　モチベーショングラフを簡単に作成できる「MOGRA」というウェブアプリケーションを作りました。
 
@@ -85,6 +85,10 @@ GitHub：https://github.com/Hackathon-b-team/b-team
 GitHub：https://github.com/HackathonGteam/gteam
 
 開発秘話：ハッカソン中にPCがぶっ壊れて、2週間私がタスクをこなせなかった。
+
+
+</div></details>
+
 
 
 
