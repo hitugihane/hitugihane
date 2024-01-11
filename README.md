@@ -1,6 +1,6 @@
 # 大学3年生！チーム開発でフロントとバックを主にやっています。
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={hituzihane}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={hitugihane}
 )](https://github.com/anuraghazra/github-readme-stats)
 
 ## ポートフォリオ↓
