@@ -1,5 +1,8 @@
 # 大学3年生！チーム開発でフロントとバックを主にやっています。
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={hitgihane}
+)](https://github.com/anuraghazra/github-readme-stats)
+
 ## ポートフォリオ↓
 http://aokikakeruno-portfolio.s3-website-ap-northeast-1.amazonaws.com/
 
