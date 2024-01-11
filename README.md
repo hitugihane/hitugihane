@@ -1,7 +1,7 @@
 ### 大学3年生です。
 ### チーム開発でフロントとバックを主にやっています。
 
-<details><summary><h1>WEBアプリケーション -チーム開発</h1></summary><div>
+<details><summary><h3>WEBアプリケーション -チーム開発</h3></summary><div>
 
 ## タイトル：ＭＯＧＲＡ
 概要：　モチベーショングラフを簡単に作成できる「MOGRA」というウェブアプリケーションを作りました。
@@ -90,7 +90,7 @@ GitHub：https://github.com/HackathonGteam/gteam
 </div></details>
 
 
-<details><summary><h1>スマートフォンアプリ -チーム開発</h1></summary>
+<details><summary><h3>スマートフォンアプリ -チーム開発</h3></summary>
 
 ## タイトル：cotabi
 概要：　旅の行き先を現在地、予算、時間を基に提案してくれるスマホアプリ
