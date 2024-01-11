@@ -92,8 +92,6 @@ GitHub：https://github.com/HackathonGteam/gteam
 
 
 </div></details>
-
-
 <details><summary><h3>スマートフォンアプリ -チーム開発</h3></summary>
 
 ## タイトル：cotabi
@@ -132,7 +130,6 @@ GitHub：https://github.com/sometaroka
 開発秘話：プロジェクト全体のリーダーがオフライン合宿の直前にとんだ。
 
 </div></details>
-
 <details><summary><h3>その他の経験</h3></summary>
 
 #### 勉強会 : 大学内でKAITpiaという2023年度現在180人が所属している学生支援のボランティア団体のマネージャーをしており、その活動の一環で情報学部の相談者の対応を行っている。
