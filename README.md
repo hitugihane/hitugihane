@@ -1,7 +1,7 @@
-# 大学3年生！チーム開発でフロントとバックを主にやっています。
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hitugihane)](https://github.com/ryo-ma/github-profile-trophy)
-
+> 大学3年生！チーム開発でフロントとバックを主にやっています。
 ## ポートフォリオ↓
 http://aokikakeruno-portfolio.s3-website-ap-northeast-1.amazonaws.com/
 
