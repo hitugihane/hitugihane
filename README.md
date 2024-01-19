@@ -2,10 +2,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hitugihane)](https://github.com/ryo-ma/github-profile-trophy)
 > 大学3年生！チーム開発でフロントとバックを主にやっています。
-## ポートフォリオ↓
+> ポートフォリオ↓
 http://aokikakeruno-portfolio.s3-website-ap-northeast-1.amazonaws.com/
 
-## 開発経験をウェブアプリ、スマートフォンアプリそれぞれ以下に記載しています。
+> 開発経験をウェブアプリ、スマートフォンアプリそれぞれ以下に記載しています。
 
 <details><summary><h3>WEBアプリケーション -チーム開発</h3></summary><div>
 
