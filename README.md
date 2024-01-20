@@ -22,7 +22,7 @@ http://aokikakeruno-portfolio.s3-website-ap-northeast-1.amazonaws.com/
 > 
 > 開発人数：4人
 > 
-> 開発言語：Django、JS
+> 開発言語：Python（Django）JS(Chart.JS)
 > 
 > 役割：リーダー、インフラ、バックエンド、フロントエンド
 > 
