@@ -27,6 +27,9 @@ http://aokikakeruno-portfolio.s3-website-ap-northeast-1.amazonaws.com/
 > 役割：リーダー、インフラ、バックエンド、フロントエンド
 > 
 > GitHub：https://github.com/Hackathon-kait/mogra
+>
+> 
+> こだわったこと：デザインにかなり時間と労力をかけた。Figmaを用いてトンマな設定から検討し、UXを意識しカーソルで掴んでモチベーション度を入力できるよう実装したりだとか細かいところまでかなり意味を持ったデザインの実装を行なった。また、アカウント情報の編集から、パスワードを忘れた際のパスワード修正機能など細かい機能まで実装を短い開発期間ながら実装し、気の利いたUI/UXを実装できたと思う。
 > 
 > 開発秘話：メンバーが私以外開発経験がなかったが、１週間で一人でプログラムを考えて作成するまで成長してくれた
 > 
@@ -54,7 +57,7 @@ http://aokikakeruno-portfolio.s3-website-ap-northeast-1.amazonaws.com/
 > 役割：バックエンド、フロントエンド、デザイン
 >
 > GitHub：https://github.com/Hackathon-Spring-Bteam/Createst
->
+> 
 > 開発秘話：ＭＯＧＲＡを作成したHackathonと時期がかぶってしまったため、めちゃくちゃタスクが多かった。
 
 ## LIFE
