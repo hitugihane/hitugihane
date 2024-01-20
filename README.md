@@ -1,6 +1,6 @@
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hitugihane)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 大学3年生！チーム開発でフロントとバックを主にやっています。
 > 
 > ポートフォリオ→
@@ -154,6 +154,7 @@ http://aokikakeruno-portfolio.s3-website-ap-northeast-1.amazonaws.com/
 > 公立はこだて未来大学、神奈川工科大学、法政大学、京都橘大学の4大学が連携し、未来の通説を創り出す「ミライ性」のあるサービスの企画・開発を行う「ミライケータイプロジェクト（PBL）」で大学リーダー兼PMO
 
 </div></details>
+[![trophy](https://github-profile-trophy.vercel.app/?username=hitugihane)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **hitugihane/hitugihane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
