@@ -8,7 +8,7 @@ http://aokikakeruno-portfolio.s3-website-ap-northeast-1.amazonaws.com/
 
 > 開発経験をウェブアプリ、スマートフォンアプリそれぞれ以下に記載しています。
 
-<details><summary><h3>WEBアプリケーション -チーム開発</h3></summary><div>
+<details><summary>WEBアプリケーション -チーム開発</summary><div>
 
 ## ＭＯＧＲＡ
 > 概要：　モチベーショングラフを簡単に作成できる「MOGRA」というウェブアプリケーションを作りました。
@@ -95,7 +95,7 @@ http://aokikakeruno-portfolio.s3-website-ap-northeast-1.amazonaws.com/
 
 
 </div></details>
-<details><summary><h3>スマートフォンアプリ -チーム開発</h3></summary>
+<details><summary>スマートフォンアプリ -チーム開発</summary>
 
 ## cotabi
 > 概要：　旅の行き先を現在地、予算、時間を基に提案してくれるスマホアプリ
@@ -134,7 +134,7 @@ http://aokikakeruno-portfolio.s3-website-ap-northeast-1.amazonaws.com/
 > 開発秘話：プロジェクト全体のリーダーがオフライン合宿の直前にとんだ。
 
 </div></details>
-<details><summary><h3>その他の経験</h3></summary>
+<details><summary>その他の経験</summary>
 
 #### 勉強会
 > 大学内でKAITpiaという2023年度現在180人が所属している学生支援のボランティア団体のマネージャーをしており、その活動の一環で情報学部の相談者の対応を行っている。
