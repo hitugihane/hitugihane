@@ -5,8 +5,10 @@
 > 
 > ポートフォリオ→
 http://aokikakeruno-portfolio.s3-website-ap-northeast-1.amazonaws.com/
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={hitugihane}
 )](https://github.com/anuraghazra/github-readme-stats)
+
 
 > 開発経験をウェブアプリ、スマートフォンアプリそれぞれ以下に記載しています。
 
