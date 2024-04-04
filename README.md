@@ -28,7 +28,7 @@ http://aokikakeruno-portfolio.s3-website-ap-northeast-1.amazonaws.com/
 > 
 > 役割：リーダー
 > 
-> GitHub：https://github.com/Hackathon-kait/mogra
+> GitHub：https://github.com/Hack-U-2024-OSAKA-hogehoge/YUBIPASS
 >
 > こだわったこと：同じ指紋情報なら同じ結果のパスワードが生成されるよう画像処理で様々なアプローチで行った。結果として同じ指で５度生成したら同じパスワードの組み合わせになるまで精度を上げることができた。
 > 
