@@ -1,6 +1,6 @@
 
 
-## 大学3年生！チーム開発でフロントとバックを主にやっています。
+## 羊羽（ひつじ）です！！大学4年生！！チーム開発でフロントとバックを主にやっています。インフラはにがて
 > 
 > ポートフォリオ→
 http://aokikakeruno-portfolio.s3-website-ap-northeast-1.amazonaws.com/
